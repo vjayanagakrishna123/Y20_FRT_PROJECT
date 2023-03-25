@@ -27,6 +27,7 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 
 Project Link:https://yellow-bush-0868bd810.1.azurestaticapps.net
 
+# NOTE:- DUE TO MORE FILES WE HAVE UPLOADED IN THE FORM OF ZIP FILE.
 # Sample images of the project :
 
 ![Screenshot (724)](https://user-images.githubusercontent.com/122869346/227698933-9f3dadb8-65ef-4210-9357-afbdeae79808.png)
